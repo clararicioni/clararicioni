@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @clararicioni
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m currently learning mobile development.
 
