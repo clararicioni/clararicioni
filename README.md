@@ -1,5 +1,3 @@
-## Hi, I’m Clara Ricioni  
-
 ## Learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="vuejs" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="vuejs" width="60" height="60" style="max-width:100%;"></img>
