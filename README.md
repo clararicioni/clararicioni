@@ -6,8 +6,6 @@
 <img src= "https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="vuejs" width="60" height="60" style="max-width:100%;"></img>
 <br>
 
-![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=aura)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/clararicioni/clararicioni/blob/output/github-contribution-grid-snake.svg)
