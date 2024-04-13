@@ -18,4 +18,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut)](https://github.com/clararicioni/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=dark)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)
