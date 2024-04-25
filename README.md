@@ -19,4 +19,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=dark)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)<br><br>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adrianojosez&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
