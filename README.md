@@ -1,6 +1,6 @@
 <div style="display: inline-block;">
-<a href="https://www.linkedin.com/in/clararicioni"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60" style="max-width:100%;"/></a>
-<a href="https://judge.beecrowd.com/pt/profile/876323"><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="60" height="60" style="max-width:100%;"/></a>
+<a href="https://www.linkedin.com/in/clararicioni" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60" style="max-width:100%;"/></a>
+<a href="https://judge.beecrowd.com/pt/profile/876323" target="_blank"><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="60" height="60" style="max-width:100%;"/></a>
 </div>
 <br>
           
