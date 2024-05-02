@@ -1,32 +1,28 @@
-<div style="display: inline-block;">
-<a href="https://www.linkedin.com/in/clararicioni" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60" style="max-width:100%;"/></a>
-<a href="https://judge.beecrowd.com/pt/profile/876323" target="_blank"><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="60" height="60" style="max-width:100%;"/></a>
-</div>
-<br>
-          
 
-## Languages:
-<div style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="max-width:100%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" style="max-width:100%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" style="max-width:100%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="max-width:100%;"/>
-  <img src= "https://cdn-icons-png.flaticon.com/128/226/226777.png" width="60" height="60" style="max-width:100%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="max-width:100%;"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0026FF&color:FFF)](https://www.linkedin.com/in/clararicioni/) 
+<a href="https://judge.beecrowd.com/pt/profile/876323" target="_blank"><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="40" height="40" style="max-width:100%;"/>
 
+
+## Languages, Frameworks, Libraries & Tools:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,c,js,php,java,git,figma" />
+</a>
 <br>
 
 ## Learning:
-<div style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" style="max-width:100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" style="max-width:100%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" style="max-width:100%;"/>
-</div>
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,ts,react,nodejs" />
+</a>
 <br>
+<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=dark)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clararicioni/clararicioni/output/github-contribution-grid-snake.svg">
+</picture>
 
