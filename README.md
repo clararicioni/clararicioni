@@ -5,13 +5,13 @@
 
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,java,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,c,java,git,figma" />
 </a>
 <br>
 
 ## Learning:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,cs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,cs" />
 </a>
 <br>
 <br><br>
