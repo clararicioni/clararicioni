@@ -5,7 +5,7 @@
 
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,c,java,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,c,java,git,figma,aws" />
 </a>
 <br>
 
@@ -15,10 +15,6 @@
 </a>
 <br>
 <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=donut&theme=dark)](https://github.com/clararicioni/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clararicioni&show_icons=true&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
