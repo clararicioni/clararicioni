@@ -5,16 +5,19 @@
 
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,c,java,git,figma,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,git,figma,aws" />
 </a>
 <br>
 
 ## Learning:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,cs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,scss,jquery,net,graphql,jest" />
 </a>
+<br><br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=compact&theme=tokyonight)](https://github.com/clararicioni/github-readme-stats)
+
 <br>
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
