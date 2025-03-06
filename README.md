@@ -1,6 +1,3 @@
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0026FF&color:FFF)](https://www.linkedin.com/in/clararicioni/) 
-
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
