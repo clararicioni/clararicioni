@@ -1,17 +1,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0026FF&color:FFF)](https://www.linkedin.com/in/clararicioni/) 
-<a href="https://judge.beecrowd.com/pt/profile/876323" target=_blank><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="40" height="40" style="max-width:100%;"/>
-
 
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,git,figma,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
 </a>
 <br>
 
 ## Learning:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,scss,jquery,net,graphql,jest" />
+  <img src="https://skillicons.dev/icons?i=angular,java,mysql" />
 </a>
 <br><br><br>
 
