@@ -1,6 +1,6 @@
 ## Languages, Frameworks, Libraries & Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,aws,bootstrap,tailwind" />
 </a>
 <br>
 
@@ -8,15 +8,11 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=angular,java,mysql" />
 </a>
-<br><br><br>
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&layout=compact&theme=tokyonight)](https://github.com/clararicioni/github-readme-stats)
+![clararicioni's Stats](https://github-readme-stats.vercel.app/api?username=clararicioni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
+![clararicioni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clararicioni&theme=tokyonight&hide_border=true)<br>
+![clararicioni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clararicioni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clararicioni/clararicioni/output/github-contribution-grid-snake.svg">
-</picture>
 
