@@ -6,7 +6,7 @@
 
 ## Learning:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,java,cs,net" />
+  <img src="https://skillicons.dev/icons?i=angular,cs,net,azure,postgresql" />
 </a>
 <br><br>
 
