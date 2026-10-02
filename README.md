@@ -24,3 +24,5 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=clararicioni&size_weight=0.5&count_weight=0.5&theme=blue_navy )
 <br>
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=clararicioni&show_icons=true&theme=blue_navy )
+
+<img width="200" height="195" alt="club-penguin" src="https://github.com/user-attachments/assets/2ef088be-2a3f-47dd-8e08-628c8bd0438d" />
